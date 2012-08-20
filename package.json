@@ -1,0 +1,10 @@
+{
+  "author": {
+    "name": "Evert Chin",
+    "email": "evertchin@gmail.com"
+  },
+  "name": "collator",
+  "version": "0.0.1",
+  "description": "a fairy straight forward assets compiler based on modified version of collate module",
+  "main": "./lib/collator.js"
+}
